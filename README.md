@@ -20,7 +20,7 @@ The program is a simple machine where the user can calculate several numbers wit
 ## Installation and Execution
 1. Clone the Repository:
 2.  ```bash
-     git clone https://github.com/yourusername/tourism-app.git
+     git clone https://github.com/Alihsnnzhd/Calculator.git
 3. Open the project in Android Studio.
 4. 4. Sync Gradle and run the project.
 
